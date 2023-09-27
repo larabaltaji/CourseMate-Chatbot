@@ -1,2 +1,5 @@
-# CourseMate-Chatbot
-This project introduces MSBA316 CourseMate, an interactive chatbot used to answer questions related to the MSBA316-Text Analytics and Natural Language Processing course.
+# CourseMate Chatbot
+
+This project introduces MSBA316 CourseMate, an interactive chatbot used to answer questions related to the MSBA316-Text Analytics and Natural Language Processing course. This chatbot provides instant answers to course-related questions, replacing manual information searches with an efficient alternative. In addition, the chatbot can be used to offer students practice quizzes and assignments based on course lectures and concepts. Data for the chatbot is extracted from the PDF lectures and syllabus, which serve as the main information source. Using the LangChain framework, this data is integrated with a large language model, notably, the GPT-3.5-turbo,  which improved cognitive abilities of the chatbot. An interface for the chatbot has been built and integrated into a website using Gradio, making it  accessible to everyone interested in learning about NLP. By achieving these goals, the MSBA316 CourseMate project helps students better understand course material and improves their learning experience.
+
+_Note: Check out the python files and project report for more information._
